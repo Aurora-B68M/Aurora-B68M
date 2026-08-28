@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Aurora 👋
 
-<!--
-**Aurora-B68M/Aurora-B68M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student interested in Computer Science, technology, and digital creativity.
 
-Here are some ideas to get you started:
+👩‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Student
+* 💻 Currently learning Python & web development
+* 🌱 Exploring Computer Science and software development
+* 🎨 I also enjoy creative projects and design
+* 📍 Germany
+
+🛠️ Languages & Tools
+
+Python Flask HTML CSS Git GitHub
+
+📌 Currently working on
+
+* Building my own web projects
+* Learning more about software development
+* Exploring APIs and backend development
+
+⸻
+
+Thanks for stopping by!
