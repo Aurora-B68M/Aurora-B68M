@@ -1,12 +1,11 @@
 Hi, I’m Aurora 👋
 
-I’m a student interested in Computer Science, technology, and digital creativity.
+I’m a student interested in Computer Science, business, and digital creativity.
 
 👩‍💻 About me
 
-* 🎓 Student
-* 💻 Currently learning Python & web development
-* 🌱 Exploring Computer Science and software development
+* 🎓 IBDP student
+* 💻 Currently practicing web development
 * 🎨 I also enjoy creative projects and design
 * 📍 Germany
 
