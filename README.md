@@ -1,22 +1,22 @@
-Hi, I’m Aurora 👋
+Hi, I’m Aurora 
 
-I’m a student interested in Computer Science, business, and digital creativity.
+I’m a student interested in Computer Science, business, writing, and digital creativity.
 
-👩‍💻 About me
+ABOUT ME 
+ IBDP student
+ Currently practicing web development and app design
+ I also enjoy creative projects centred around UI 
 
-* 🎓 IBDP student
-* 💻 Currently practicing web development
-* 🎨 I also enjoy creative projects and design
-* 📍 Germany
+LANGUAGES
+  Python
+  C++
+  C
+  SQL 
 
-🛠️ Languages & Tools
-
-Python Flask HTML CSS Git GitHub
-
-📌 Currently working on
-
-* Building my own web projects
-* Learning more about software development
+CURRENT PROJECTS 
+* Cooking repair and recipe searching database website | Recipe Search 
+* Minimax algorithm opponent in C++ | TicTacToe  
+* Developing general coding skills in C
 * Exploring APIs and backend development
 
 ⸻
